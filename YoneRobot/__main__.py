@@ -85,19 +85,19 @@ buttons = [
     [
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ 💫", url="https://t.me/Sparkyvc"),
         InlineKeyboardButton(
-            text"𝗤𝘂𝗲𝗲𝗻 𝗛𝗲𝗿𝗲", url=f"https://t.me/{Rashmika_Chatting}
+            text="ǫᴜᴇᴇɴ ʜᴇʀᴇ 🧚", url=f"https://t.me/{Rashmika_Chatting}"
         ),
     ],
     [
         InlineKeyboardButton(text="ғᴜɴᴄᴛɪᴏɴs", callback_data="help_back"),
         InlineKeyboardButton(
-            text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦🗞️", url="https://t.me/Rashmika_Logger
+            text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦🗞️", url="https://t.me/Rashmika_Logger"
         ),
     ],
     [
-        InlineKeyboardButton(text="🔱𝗖𝗥𝗘𝗔𝗧𝗢𝗥🔱 @Rashmika_Offic
+        InlineKeyboardButton(text="🔱𝗖𝗥𝗘𝗔𝗧𝗢𝗥🔱" url="https://t.me/Rashmika_Offic"
         InlineKeyboardButton(
-            text="𝗖𝗼𝗺𝗽𝗹𝗮𝗶𝗻𝘁𝘀💢", url=https://t.me/Rashmika_Support
+            text="𝗖𝗼𝗺𝗽𝗹𝗮𝗶𝗻𝘁𝘀💢", url=https://t.me/Rashmika_Support"
         ),
     ],
 ]

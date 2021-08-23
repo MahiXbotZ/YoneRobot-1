@@ -95,7 +95,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="🔱𝗖𝗥𝗘𝗔𝗧𝗢𝗥🔱" url="https://t.me/Rashmika_Offic"
+        InlineKeyboardButton(text="🔱𝗖𝗥𝗘𝗔𝗧𝗢𝗥🔱", url="https://t.me/Rashmika_Offic"
         InlineKeyboardButton(
             text="𝗖𝗼𝗺𝗽𝗹𝗮𝗶𝗻𝘁𝘀💢", url=https://t.me/Rashmika_Support"
         ),

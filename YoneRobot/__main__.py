@@ -85,7 +85,7 @@ buttons = [
     [
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ 💫", url="https://t.me/Sparkyvc"),
         InlineKeyboardButton(
-            text"𝗤𝘂𝗲𝗲𝗻 𝗛𝗲𝗿𝗲", url=f"https://t.me/[Rashmika_Chatting
+            text"𝗤𝘂𝗲𝗲𝗻 𝗛𝗲𝗿𝗲", url=f"https://t.me/{Rashmika_Chatting}
         ),
     ],
     [
@@ -97,7 +97,7 @@ buttons = [
     [
         InlineKeyboardButton(text="🔱𝗖𝗥𝗘𝗔𝗧𝗢𝗥🔱 @Rashmika_Offic
         InlineKeyboardButton(
-            text="𝗖𝗼𝗺𝗽𝗹𝗮𝗶𝗻𝘁𝗱💢", url=https://t.me/Rashmika_Support
+            text="𝗖𝗼𝗺𝗽𝗹𝗮𝗶𝗻𝘁𝘀💢", url=https://t.me/Rashmika_Support
         ),
     ],
 ]

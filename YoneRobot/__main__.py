@@ -74,43 +74,43 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜɪ.. ɪ'ᴍ sᴘᴀʀᴋʏ ✨🤍[🤗](https://telegra.ph/file/9bd08de2f95ac59397564.jpg) ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs 🤍 ᴛᴏ ᴋɴᴏᴡ ᴏᴜʀ ʙᴏᴛ! ʜɪᴛ /help   
+ʜɪ.. ɪ'ᴍ 𝗥𝗔𝗦𝗛𝗠𝗜𝗞𝗔 ✨🤍[🤗]https://telegra.ph/file/92f1a5e61d9448bafe6c9.jpg ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs 🤍 ᴛᴏ ᴋɴᴏᴡ ᴏᴜʀ ʙᴏᴛ! ʜɪᴛ /help   
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/Sparkypro_bot?startgroup=true"),
+            text="👸𝗔𝗗𝗗 𝗠𝗘👸", url="t.me/Sparkypro_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ 💫", url="https://t.me/Sparkyvc"),
         InlineKeyboardButton(
-            text="ꜱᴜᴘᴘᴏʀᴛ⚠️", url=f"https://t.me/{SUPPORT_CHAT}"
+            text"𝗤𝘂𝗲𝗲𝗻 𝗛𝗲𝗿𝗲", url=f"https://t.me/[Rashmika_Chatting
         ),
     ],
     [
         InlineKeyboardButton(text="ғᴜɴᴄᴛɪᴏɴs", callback_data="help_back"),
         InlineKeyboardButton(
-            text="ᴜᴩᴅᴀᴛᴇs🗞️", url="https://t.me/Sparkypro"
+            text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦🗞️", url="https://t.me/Rashmika_Logger
         ),
     ],
     [
-        InlineKeyboardButton(text="ᴢᴇᴜs✨", url="t.me/zeus_appeal"),
+        InlineKeyboardButton(text="🔱𝗖𝗥𝗘𝗔𝗧𝗢𝗥🔱 @Rashmika_Offic
         InlineKeyboardButton(
-            text="ᴄʜᴀᴛs💢", url="t.me/ABHGFFS"
+            text="𝗖𝗼𝗺𝗽𝗹𝗮𝗶𝗻𝘁𝗱💢", url=https://t.me/Rashmika_Support
         ),
     ],
 ]
 
 
 HELP_STRINGS = """
-`ʜɪ.. ɪ'ᴍ` sᴘᴀʀᴋʏ 💫🤍[🤗](https://telegra.ph/file/9bd08de2f95ac59397564.jpg) 
+`ʜɪ.. ɪ'ᴍ` 𝗥𝗮𝘀𝗵𝗺𝗶𝗸𝗮 💫🤍[🤗](https://telegra.ph/file/e1ca787ddcc8ba9727e95.jpg
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
 
-yone_IMG = "https://telegra.ph/file/9bd08de2f95ac59397564.jpg"
+yone_IMG = "https://telegra.ph/file/e1ca787ddcc8ba9727e95.jpg
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paypal](#) or by contacting @Sparkypro \
+ You can support the project via [Paypal](#) or by contacting @Rashmika_Offic \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 

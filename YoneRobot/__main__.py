@@ -107,7 +107,7 @@ HELP_STRINGS = """
 `ʜɪ.. ɪ'ᴍ` 𝗥𝗮𝘀𝗵𝗺𝗶𝗸𝗮 💫🤍[🤗](https://telegra.ph/file/e1ca787ddcc8ba9727e95.jpg
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
 
-yone_IMG = "https://telegra.ph/file/e1ca787ddcc8ba9727e95.jpg
+yone_IMG = "https://telegra.ph/file/e1ca787ddcc8ba9727e95.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](#) or by contacting @Rashmika_Offic \

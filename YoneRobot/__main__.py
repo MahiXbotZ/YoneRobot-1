@@ -74,37 +74,37 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜɪ.. ɪ'ᴍ 𝗥𝗔𝗦𝗛𝗠𝗜𝗞𝗔 ✨🤍[🤗]https://telegra.ph/file/92f1a5e61d9448bafe6c9.jpg ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs 🤍 ᴛᴏ ᴋɴᴏᴡ ᴏᴜʀ ʙᴏᴛ! ʜɪᴛ /help   
+ʜɪ.. ɪᴍ 𝗧 𝗘 𝗭 𝗭 𝗔 ✨🤍[🤗]https://telegra.ph/file/9678c9a2b7482d9bde224.jpg ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs 🤍 ᴛᴏ ᴋɴᴏᴡ ᴏᴜʀ ʙᴏᴛ! ʜɪᴛ /help   
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="👸𝗔𝗗𝗗 𝗠𝗘👸", url="t.me/Sparkypro_bot?startgroup=true"),
+            text="👸𝗔𝗗𝗗 𝗠𝗘👸", url="t.me/Tezza_x_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ 💫", url="https://t.me/Sparkyvc"),
+        InlineKeyboardButton(text="ᴏᴡɴᴇʀ 💫", url="https://t.me/Tezza_X"),
         InlineKeyboardButton(
-            text="ǫᴜᴇᴇɴ ʜᴇʀᴇ 🧚", url=f"https://t.me/Rashmika_Chatting"
+            text="ǫᴜᴇᴇɴ ʜᴇʀᴇ 🧚", url=f"https://t.me/Tezza_X_Support"
         ),
     ],
     [
         InlineKeyboardButton(text="ғᴜɴᴄᴛɪᴏɴs", callback_data="help_back"),
         InlineKeyboardButton(
-            text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦🗞️", url="https://t.me/Rashmika_Logger"
+            text="𝗨𝗣𝗗𝗔𝗧𝗘𝗦🗞️", url="https://t.me/Tezza_X_Support"
         ),
     ],
     [
-        InlineKeyboardButton(text="🔱𝗖𝗥𝗘𝗔𝗧𝗢𝗥🔱", url="https://t.me/Rashmika_Offic"),
+        InlineKeyboardButton(text="🔱𝗖𝗥𝗘𝗔𝗧𝗢𝗥🔱", url="https://t.me/Tezza_X"),
         InlineKeyboardButton(
-            text="𝗖𝗼𝗺𝗽𝗹𝗮𝗶𝗻𝘁𝘀💢", url="t.me/Rashmika_Support"
+            text="𝗖𝗼𝗺𝗽𝗹𝗮𝗶𝗻𝘁𝘀💢", url="https://t.me/Tezza_X_Support"
         ),
     ],
 ]
 
 
 HELP_STRINGS = """
-`ʜɪ.. ɪ'ᴍ` 𝗥𝗮𝘀𝗵𝗺𝗶𝗸𝗮 💫🤍[🤗](https://telegra.ph/file/e1ca787ddcc8ba9727e95.jpg
+`ʜɪ.. ɪ'ᴍ`ＴΞＺＺΛ 💫🤍[🤗](https://telegra.ph/file/9678c9a2b7482d9bde224.jpg
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
 
 yone_IMG = "https://telegra.ph/file/e1ca787ddcc8ba9727e95.jpg"
